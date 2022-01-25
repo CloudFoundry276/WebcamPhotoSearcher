@@ -1,2 +1,2 @@
-# WebcamPhotoSearcher
-Webcam Photo Searcher
+# WebcamPhotoSharer
+Webcam Photo Sharer
