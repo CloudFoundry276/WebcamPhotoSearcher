@@ -1,2 +1,5 @@
 # ignore png images
 *.png
+
+# ignore apikey
+apikey.txt
